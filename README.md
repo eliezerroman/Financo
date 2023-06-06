@@ -1,5 +1,8 @@
 # Financo
 Trabalho Engenharia de Software - Aplicativo Financeiro Financo
+Grupo:
+ELIEZER AUGUSTUS SABINO ROBLES ROMAN
+DIOGO CRUZ MAIA
 
 Etapa 1 – Requisitos – Diagrama de Casos de Uso  
 Identificar os atores  
